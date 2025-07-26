@@ -23,7 +23,7 @@ ul li {
 
 body{
 
-    background-color: rgb(53, 53, 121);
+    background-image: url('/assets/background.png');
     
 }
 
@@ -43,6 +43,7 @@ h2 {
 }
 
 span,h3 {
+    
     font-family: 'VT323', monospace;
     color: #fff;
 }
@@ -55,4 +56,14 @@ p {
 a{
     color: #fff;
     text-decoration: none;
+}
+
+#sobre_mim{
+
+    border: #0e0d0d solid 2px;
+}
+
+#sobre_mim h2, h3{
+    border: #0e0d0d solid 2px;
+    display: inline-block;
 }
