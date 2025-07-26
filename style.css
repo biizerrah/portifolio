@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+img{
+
+    border-radius:60%;
+    width: 200px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+   
+}
+
+ul li {
+
+     display: inline;
+     margin-right: 20px;
+     font-family: 'vt323', monospace;
+     
+}
+
+body{
+
+    background-color: rgb(53, 53, 121);
+    
+}
+
+h2 {
+
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 200;
+    background: linear-gradient(#e66241, #6b1654);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    
+ 
+}
+
+span,h3 {
+    font-family: 'VT323', monospace;
+    color: #fff;
+}
+
+p {
+    text-align: center;
+    font-family: 'VT323', monospace;
+    color: #fff;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
